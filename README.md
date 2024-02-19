@@ -7,7 +7,7 @@ For detailed instructions on how to use these implementations please refer to th
 ## IDP Implementations
 
 - Spring Boot / Java: https://github.com/philsmart/fedcm-rp-idp
-- Node.js / Javascript: https://github.com/achimschlossfedcm-idp-typescript
+- Node.js / Javascript: https://github.com/achimschloss/fedcm-idp-typescript
 
 ## RP Implementations
 
